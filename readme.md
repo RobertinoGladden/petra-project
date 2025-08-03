@@ -7,7 +7,7 @@
 
 ## 📁 Project Structure
 
-```
+```bash
 ├── dataset
 │   ├── test
 │   ├── train
@@ -73,7 +73,7 @@ pip install -r requirements.txt
 
 ## 🔊 Example Labels (labels.txt)
 
-```
+```bash
 kiri
 kanan
 lurus
