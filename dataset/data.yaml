@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['kanan', 'kiri', 'lurus']
+
+roboflow:
+  workspace: trotoar
+  project: guiding-block
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/trotoar/guiding-block/dataset/3
