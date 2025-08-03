@@ -1,9 +1,10 @@
 # Petra: Smart Guide for the Visually Impaired
 
 **Petra** is an intelligent AI assistant designed to help visually impaired users navigate using a YOLOv8 object detection model, voice guidance with Google Text-to-Speech (gTTS), and video processing overlays.
-
-
 ---
+## 🎬 Demo
+
+![Petra AI Demo](C:\Users\lapt1\Downloads\Tunanetra\petraGray.avi)
 
 ## 📁 Project Structure
 
