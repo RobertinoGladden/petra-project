@@ -4,7 +4,7 @@
 ---
 ## 🎬 Demo
 
-![Petra AI Demo](C:\Users\lapt1\Downloads\Tunanetra\petraGray.avi)
+![Petra AI Demo]([C:\Users\lapt1\Downloads\Tunanetra\petraGray.avi](https://github.com/RobertinoGladden/petra-project/blob/main/petraGray.avi))
 
 ## 📁 Project Structure
 
@@ -125,5 +125,6 @@ For questions or collaboration, feel free to reach out!
 **Purpose:** Assistive technology for blind/visually impaired navigation
 
 ---
+
 
 > "Guiding with AI. Empowering through vision."
